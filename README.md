@@ -1,4 +1,4 @@
-![imagem](https://tenor.com/pt-BR/view/github-welcome-gif-)
+![](https://tenor.com/pt-BR/view/github-welcome-gif-)
 
 
 
