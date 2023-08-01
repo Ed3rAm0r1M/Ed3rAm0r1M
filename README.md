@@ -1,7 +1,3 @@
-![](https://tenor.com/pt-BR/view/github-welcome-gif)
-
-
-
 ## Boas Vindas ao meu perfil 😎
 
 👋 Olá meu nome é Éder Amorim, prazer e Satisfação te-lo em meu perfil.
