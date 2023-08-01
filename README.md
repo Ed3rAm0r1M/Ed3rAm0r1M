@@ -1,4 +1,8 @@
-## Boas Vindas ao meu perfil.
+![](https://tenor.com/pt-BR/view/github-welcome-gif-)
+
+
+
+## Boas Vindas ao meu perfil 😎
 
 👋 Olá meu nome é Éder Amorim, prazer e Satisfação te-lo em meu perfil.
 
@@ -8,9 +12,12 @@
 - Este GITHUB será ultilizado para organizar meus projetos mais complexos e relevantes criados por min.
 
 
-  ## Contato.
+## Contato 💻
 
-  - Linkedin:
-  - Email Pessoal: ederamorim@gmail.com
-  - Email outro: eder.amorim@estudante.ifms.edu.br
-  - GitHub institucional:
+
+- Email Pessoal: ederamorim@gmail.com
+- Email outro: eder.amorim@estudante.ifms.edu.br
+- GitHub institucional: https://github.com/EderAmorimIFMS
+- Fique avontade para olhar meus projetos!
+
+
